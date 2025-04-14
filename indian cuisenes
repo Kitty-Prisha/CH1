@@ -5,6 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+
+
+    </style>
 </head>
 <b>
     Indian cuisine
@@ -29,6 +33,16 @@ Bangladesh. Here are some key elements of Bengali food:       <a href="SCREEN.ht
     Punjabi cuisine, originating from the vibrant region of Punjab in northern India and Pakistan, is known for its bold
     flavors, rich gravies, and hearty ingredients. It reflects the agricultural richness of the region, with an abundance of
     dairy, grains, and robust spices.<a href="FILE.html">information</a>
+    <div class="main">
+        <div class="first">
+
+        </div>
+
+        </div>
+    </div>
+
+
+    </div>
     </p>
 </p>
 
